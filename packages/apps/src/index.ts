@@ -54,6 +54,22 @@ import Stopwatch from "@felvin-community/stopwatch";
 import Sudoku from "@felvin-community/sudoku";
 import Tetris from "@felvin-community/tetris";
 
+import TicTacToe from "@felvin-community/tic-tac-toe";
+import timeAtPlace from "@felvin-community/time-at-place";
+import Timer from "@felvin-community/timer";
+import TrendingOnGithub from "@felvin-community/trending-on-github";
+import TvShows from "@felvin-community/tv-shows";
+import UnitConvertor from "@felvin-community/unit-convertor";
+import UnitSystem from "@felvin-community/unit-system";
+import UnixTimestamp from "@felvin-community/unix-timestamp";
+import UrlEncoderDecoder from "@felvin-community/url-encoder-decoder";
+import UrlShortener from "@felvin-community/url-shortener";
+import uuid from "@felvin-community/uuid";
+import WebsiteIcons from "@felvin-community/website-icons";
+import WeightConverter from "@felvin-community/weight-converter";
+import WhatDay from "@felvin-community/what-day";
+import WordCounter from "@felvin-community/word-counter";
+
 const allApps = [
   AddressPincodes,
   AsciiArt,
@@ -112,6 +128,21 @@ const allApps = [
   Sudoku,
   Tetris,
   
+  TicTacToe,
+  timeAtPlace,
+  Timer,
+  TrendingOnGithub,
+  TvShows,
+  UnitConvertor,
+  UnitSystem,
+  UnixTimestamp,     //cycle-seven
+  UrlEncoderDecoder,
+  UrlShortener,
+  uuid,
+  WebsiteIcons,
+  WeightConverter,
+  WhatDay,
+  WordCounter,
  
 
 ];
