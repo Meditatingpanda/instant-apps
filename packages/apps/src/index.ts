@@ -45,6 +45,14 @@ import MorseCodeGenerator from "@felvin-community/morse-code-generator";
 import Pacman from "@felvin-community/pacman";
 import Pokedex from "@felvin-community/pokedex";
 
+import QrCodeGenerator from "@felvin-community/qr-code-generator";
+import RandomStringGenerator from "@felvin-community/random-string-generator";
+import Regex from "@felvin-community/regex";
+import ScreenSize from "@felvin-community/screen-size";
+import SnakeGame from "@felvin-community/snake-game";
+import Stopwatch from "@felvin-community/stopwatch";
+import Sudoku from "@felvin-community/sudoku";
+import Tetris from "@felvin-community/tetris";
 
 const allApps = [
   AddressPincodes,
@@ -94,6 +102,15 @@ const allApps = [
   MorseCodeGenerator,
   Pacman,
   Pokedex,
+
+  QrCodeGenerator,
+  RandomStringGenerator,
+  Regex,
+  ScreenSize,        //cycle-six
+  SnakeGame,
+  Stopwatch,
+  Sudoku,
+  Tetris,
   
  
 
