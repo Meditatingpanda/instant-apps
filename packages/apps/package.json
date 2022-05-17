@@ -59,6 +59,15 @@
     "@felvin-community/jwt-decoder": "^1.80.0",
     "@felvin-community/latex-render": "^1.85.0",
     "@felvin-community/live-markdown": "^1.80.0",
+
+    "@felvin-community/lorem-ipsum-generator": "^1.85.0",
+    "@felvin-community/markdown-to-html": "^1.80.0",
+    "@felvin-community/math": "^1.85.0",
+    "@felvin-community/merge-pdfs": "^1.77.0",
+    "@felvin-community/metronome": "^1.45.0",
+    "@felvin-community/morse-code-generator": "^1.83.0",
+    "@felvin-community/pacman": "^1.18.0",
+    "@felvin-community/pokedex": "^1.73.0",
    
     "@felvin-search/core": "^1.56.0",
     "react": "^17.0.2",

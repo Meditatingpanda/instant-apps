@@ -36,6 +36,15 @@ import JwtDecoder from "@felvin-community/jwt-decoder";
 import latexRender from "@felvin-community/latex-render";
 import LiveMarkdown from "@felvin-community/live-markdown";
 
+import loremIpsumGenerator from "@felvin-community/lorem-ipsum-generator";
+import MarkdownToHtml from "@felvin-community/markdown-to-html";
+import math from "@felvin-community/math";
+import MergePdfs from "@felvin-community/merge-pdfs";
+import Metronome from "@felvin-community/metronome";
+import MorseCodeGenerator from "@felvin-community/morse-code-generator";
+import Pacman from "@felvin-community/pacman";
+import Pokedex from "@felvin-community/pokedex";
+
 
 const allApps = [
   AddressPincodes,
@@ -73,11 +82,18 @@ const allApps = [
   jsonFormatter,
   jsonToCsv,
   JsonToYaml,
-  JwtDecoder,
+  JwtDecoder,    //cycle-four
   latexRender,
   LiveMarkdown,
   
-  
+  loremIpsumGenerator,
+  MarkdownToHtml,
+  math,
+  MergePdfs,
+  Metronome,           //cycle-five
+  MorseCodeGenerator,
+  Pacman,
+  Pokedex,
   
  
 
