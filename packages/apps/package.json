@@ -52,6 +52,13 @@
     "@felvin-community/ip-address": "^1.83.0",
     "@felvin-community/is-prime": "^1.42.0",
     "@felvin-community/joke-generator": "^1.85.0",
+
+    "@felvin-community/json-formatter": "^1.85.0",
+    "@felvin-community/json-to-csv": "^1.85.0",
+    "@felvin-community/json-to-yaml": "^1.12.0",
+    "@felvin-community/jwt-decoder": "^1.80.0",
+    "@felvin-community/latex-render": "^1.85.0",
+    "@felvin-community/live-markdown": "^1.80.0",
    
     "@felvin-search/core": "^1.56.0",
     "react": "^17.0.2",

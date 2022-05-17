@@ -29,6 +29,13 @@ import IpAddress from "@felvin-community/ip-address";
 import IsPrime from "@felvin-community/is-prime";
 import JokeGenerator from "@felvin-community/joke-generator";
 
+import jsonFormatter from "@felvin-community/json-formatter";
+import jsonToCsv from "@felvin-community/json-to-csv";
+import JsonToYaml from "@felvin-community/json-to-yaml";
+import JwtDecoder from "@felvin-community/jwt-decoder";
+import latexRender from "@felvin-community/latex-render";
+import LiveMarkdown from "@felvin-community/live-markdown";
+
 
 const allApps = [
   AddressPincodes,
@@ -58,11 +65,17 @@ const allApps = [
   graphPlotter,
   HelloWorldInDifferentLanguages,
   HttpStatusCodes,
-  ImageUploader,
+  ImageUploader,    //cycle-three
   IpAddress,
   IsPrime,
   JokeGenerator,
- 
+  
+  jsonFormatter,
+  jsonToCsv,
+  JsonToYaml,
+  JwtDecoder,
+  latexRender,
+  LiveMarkdown,
   
   
   
