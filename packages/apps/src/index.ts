@@ -19,6 +19,17 @@ import currencyConvertor from "@felvin-community/currency-convertor";
 import DiceRoller from "@felvin-community/dice-roller";
 import Dictionary from "@felvin-community/dictionary";
 
+import flappyBird from "@felvin-community/flappy-bird";
+import FlipACoin from "@felvin-community/flip-a-coin";
+import graphPlotter from "@felvin-community/graph-plotter";
+import HelloWorldInDifferentLanguages from "@felvin-community/hello-world-in-different-languages";
+import HttpStatusCodes from "@felvin-community/http-status-codes";
+import ImageUploader from "@felvin-community/image-uploader";
+import IpAddress from "@felvin-community/ip-address";
+import IsPrime from "@felvin-community/is-prime";
+import JokeGenerator from "@felvin-community/joke-generator";
+
+
 const allApps = [
   AddressPincodes,
   AsciiArt,
@@ -35,11 +46,28 @@ const allApps = [
   CourierTracker,
   CronParser,
   CropImage,
-  Crypto,
+  Crypto,      //cycle-two
   csvToJson,
   currencyConvertor,
   DiceRoller,
   Dictionary,
+  
+
+  flappyBird,
+  FlipACoin,
+  graphPlotter,
+  HelloWorldInDifferentLanguages,
+  HttpStatusCodes,
+  ImageUploader,
+  IpAddress,
+  IsPrime,
+  JokeGenerator,
+ 
+  
+  
+  
+ 
+
 ];
 
 export default allApps;

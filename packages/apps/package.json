@@ -43,7 +43,16 @@
     "@felvin-community/dice-roller": "^1.85.0",
     "@felvin-community/dictionary": "^1.85.0",
 
-    
+    "@felvin-community/flappy-bird": "^1.85.0",
+    "@felvin-community/flip-a-coin": "^1.78.0",
+    "@felvin-community/graph-plotter": "^1.85.0",
+    "@felvin-community/hello-world-in-different-languages": "^1.76.0",
+    "@felvin-community/http-status-codes": "^1.41.0",
+    "@felvin-community/image-uploader": "^1.66.0",
+    "@felvin-community/ip-address": "^1.83.0",
+    "@felvin-community/is-prime": "^1.42.0",
+    "@felvin-community/joke-generator": "^1.85.0",
+   
     "@felvin-search/core": "^1.56.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
